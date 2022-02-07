@@ -3,7 +3,7 @@
 # JavaScript Counter
 
 My first JavaScript project, created for [Start2Impact](https://www.start2impact.it/) BASIC JS section. <br>
-You can visit the site [here](https://js-basic-s2i-marcolovato.netlify.app/).
+You can visit the site [here](https://js-basic-s2i-marcolovato.netlify.app/){:target="_blank"}.
 
 ## Project requirements 
 
